@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5Cb15cde3568fd558BCC669Ed2fC5A5236259cDD",
+  "SCAN_LINK": "https://polygonscan.com/address/0x5Cb15cde3568fd558BCC669Ed2fC5A5236259cDD",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Blockheadz",
+  "SYMBOL": "BHZ",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 20000000000000000000,
+  "DISPLAY_COST": 20,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/blockheadz-v2",
+  "SHOW_BACKGROUND": true
+}

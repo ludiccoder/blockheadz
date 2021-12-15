@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/blockheadz/static/css/main.71a051fb.chunk.css",
+    "main.js": "/blockheadz/static/js/main.565b85dc.chunk.js",
+    "main.js.map": "/blockheadz/static/js/main.565b85dc.chunk.js.map",
+    "runtime-main.js": "/blockheadz/static/js/runtime-main.b5734278.js",
+    "runtime-main.js.map": "/blockheadz/static/js/runtime-main.b5734278.js.map",
+    "static/js/2.29b3b04e.chunk.js": "/blockheadz/static/js/2.29b3b04e.chunk.js",
+    "static/js/2.29b3b04e.chunk.js.map": "/blockheadz/static/js/2.29b3b04e.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/blockheadz/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/blockheadz/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/blockheadz/index.html",
+    "static/css/main.71a051fb.chunk.css.map": "/blockheadz/static/css/main.71a051fb.chunk.css.map",
+    "static/js/2.29b3b04e.chunk.js.LICENSE.txt": "/blockheadz/static/js/2.29b3b04e.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/blockheadz/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5734278.js",
+    "static/js/2.29b3b04e.chunk.js",
+    "static/css/main.71a051fb.chunk.css",
+    "static/js/main.565b85dc.chunk.js"
+  ]
+}
