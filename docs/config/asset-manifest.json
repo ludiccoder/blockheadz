@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ludiccoder/blockheadz/static/css/main.d990caeb.chunk.css",
+    "main.js": "/ludiccoder/blockheadz/static/js/main.565b85dc.chunk.js",
+    "main.js.map": "/ludiccoder/blockheadz/static/js/main.565b85dc.chunk.js.map",
+    "runtime-main.js": "/ludiccoder/blockheadz/static/js/runtime-main.1a2499c1.js",
+    "runtime-main.js.map": "/ludiccoder/blockheadz/static/js/runtime-main.1a2499c1.js.map",
+    "static/js/2.56911144.chunk.js": "/ludiccoder/blockheadz/static/js/2.56911144.chunk.js",
+    "static/js/2.56911144.chunk.js.map": "/ludiccoder/blockheadz/static/js/2.56911144.chunk.js.map",
+    "static/js/3.1414eae9.chunk.js": "/ludiccoder/blockheadz/static/js/3.1414eae9.chunk.js",
+    "static/js/3.1414eae9.chunk.js.map": "/ludiccoder/blockheadz/static/js/3.1414eae9.chunk.js.map",
+    "index.html": "/ludiccoder/blockheadz/index.html",
+    "static/css/main.d990caeb.chunk.css.map": "/ludiccoder/blockheadz/static/css/main.d990caeb.chunk.css.map",
+    "static/js/2.56911144.chunk.js.LICENSE.txt": "/ludiccoder/blockheadz/static/js/2.56911144.chunk.js.LICENSE.txt",
+    "static/media/reset.css": "/ludiccoder/blockheadz/static/media/font.617a0a92.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a2499c1.js",
+    "static/js/2.56911144.chunk.js",
+    "static/css/main.d990caeb.chunk.css",
+    "static/js/main.565b85dc.chunk.js"
+  ]
+}
